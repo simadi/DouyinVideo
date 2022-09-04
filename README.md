@@ -23,7 +23,7 @@ c# winform
 
  准备下载这个美女的视频，漂亮吧！哈哈
 
- ![输入图片说明](assets/1.jpg)
+https://github.com/simadi/DouyinVideo/blob/main/assets/1.jpg
 
 1 在抖音手机app 或 网页端 点击分享按钮
 
