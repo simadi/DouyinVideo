@@ -1,10 +1,10 @@
 # DouyinVideo
-抖音无水印视频及相关信息下载器，源代码 c#，csharp
-
-# DouyinVideo
 
 #### 介绍
 抖音无水印视频及相关信息下载器，源代码 c#，csharp
+
+这里显示有问题，请移步
+http://weixinhook.com/2022/09/03/douyinwushuiyinshipinjixiangguanxinxixiazaiqiyuandaima-ccsharp/
 
 #### 软件架构
 c# winform
